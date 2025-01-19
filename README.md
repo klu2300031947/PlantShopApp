@@ -1,10 +1,4 @@
-# PlantShopApp
-A web application for purchasing houseplants with Redux state management
-# PlantShopApp
-
-A web application for purchasing houseplants with Redux state management.
-
-## Overview
+# Plant Shop
 
 A React-based e-commerce application for purchasing houseplants. This project uses Redux for state management and includes features like a shopping cart, categorization, and a checkout system.
 
@@ -21,3 +15,4 @@ A React-based e-commerce application for purchasing houseplants. This project us
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/plant-shop.git
+   ```
